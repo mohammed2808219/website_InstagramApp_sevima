@@ -1,5 +1,5 @@
 ## Getting started
-1. Clone project `git clone https://github.com/KhalidLam/instagramClone.gitL`
+1. Clone project `https://github.com/mohammed2808219/website_InstagramApp_sevima.git`
 2. Go to the folder `cd instagramClone`
 3. Install composer `composer install`
 4. Install npm package `npm install`
